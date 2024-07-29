@@ -13,22 +13,9 @@
     font-family: 'Karla' serif;
   }
   .header {
-    background-color: rgb(217, 171, 111);
+    background-color: rgb(245, 211, 166);
   }
-  .nav-list {
-    list-style: none;
-    display: flex;
-    align-items: center;
-  }
-  .nav-link {
-    padding: 0 20px;
-    line-height: 50px;
-    text-decoration: none;
-    color: blanchedalmond;
-    text-shadow: 3px 3px 8px rgb(81, 43, 6);
-    font-size: large;
-    transition: .3s;
-  }
+  
   .main {
     background-color: cornsilk;
     margin-bottom: auto;
